@@ -1,6 +1,6 @@
 # LicensePlateCV
 
-Real-time license plate detection and OCR from the MacBook camera. The script detects a likely plate region, warps it, thresholds it, then runs Tesseract OCR and overlays the text + a confidence-like score on the video feed.
+Real-time license plate detection and OCR from a camera. The script detects a likely plate region, warps it, thresholds it, then runs Tesseract OCR and overlays the text + a confidence-like score on the video feed.
 
 ## Features
 - Live webcam capture
